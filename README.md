@@ -15,23 +15,6 @@
 </p>
 
 <br/>
-
-- 🔭 I’m currently working on a [Real-world Object Simulation Algorithm](https://nulll.me/quantum-simulation-algorithm)
-
-- 🌱 I’m currently learning **Cybersecurity, Quantum Computing, Philosophy, Calculas**
-
-- 🤝 I’m looking for help with **my Quantum Researh**
-
-- 📝 I regularly write articles on [https://nulll.me](https://nulll.me)
-
-- 💬 Ask me about **Philosophy/Astrophisics/Ideas/Projects**
-
-- 📫 How to reach me **farhansarkerniloy@gmail.com**
-
-- 📄 Know about my experiences [https://nulll.me/resume](https://nulll.me/resume)
-
-
-
 <br/>
 <p>&nbsp;<img width: 600px align="center" src="https://github-readme-stats.vercel.app/api?username=niloy-farhan&show_icons=true&locale=en" alt="niloy-farhan" /></p>
 
